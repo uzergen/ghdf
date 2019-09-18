@@ -1,0 +1,21 @@
+
+		table,tr,td {
+			border: 1px solid black;
+			border-collapse: collapse;
+			color: blek;
+			text-align: center;
+			vertical-align: top;
+		}
+
+
+
+
+
+
+.bold{
+	font-weight: bold;
+	font-size: 18px;}
+.left{
+	text-align: left;
+
+}
